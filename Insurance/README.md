@@ -155,11 +155,18 @@ To walk through the statistical research and dataset processing:
 
 Running the notebook generates several high-resolution plots to interpret the data:
 
-### Attribute Distributions & Correlations
-![Attribute Distribution Panels](img/image.png)
-
-### BMI Distribution Analysis
-![BMI Distribution Analysis](img/bmi.png)
+<table>
+  <tr>
+    <td align="center">
+      <strong>Attribute Distributions & Correlations</strong><br>
+      <img src="img/image.png" width="400">
+    </td>
+    <td align="center">
+      <strong>BMI Distribution Analysis</strong><br>
+      <img src="img/bmi.png" width="400">
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -138,18 +138,28 @@ To run the analysis and feature engineering pipeline:
 
 During execution, the notebook displays several high-resolution plots to interpret the data:
 
-### Target Balance & Distributions
-![Target Balance & Histograms](img/image.png)
-
-### Feature Scaling (Before vs After)
-**Before Scaling:**
-![Before Scaling](img/before.png)
-
-**After Scaling:**
-![After Scaling](img/after.png)
-
-### Outlier Detection (Violin Plot)
-![Violin Plot](img/violine.png)
+<table>
+  <tr>
+    <td align="center">
+      <strong>Target Balance & Distributions</strong><br>
+      <img src="img/image.png" width="400">
+    </td>
+    <td align="center">
+      <strong>Outlier Detection (Violin Plot)</strong><br>
+      <img src="img/violine.png" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Before Scaling</strong><br>
+      <img src="img/before.png" width="400">
+    </td>
+    <td align="center">
+      <strong>After Scaling</strong><br>
+      <img src="img/after.png" width="400">
+    </td>
+  </tr>
+</table>
 
 ---
 
