@@ -144,18 +144,4 @@ During execution, the notebook displays:
 
 ---
 
-## 🔮 Future Work & Extensions
-
-- [ ] **Model Selection & Training**: Implement multiple classification models such as Logistic Regression, Random Forest, XGBoost, and Support Vector Classifier (SVC).
-- [ ] **Hyperparameter Tuning**: Perform GridSearch / RandomizedSearch on the best models to maximize Recall (critical in medical diagnostic pipelines to minimize false negatives).
-- [ ] **Feature Selection**: Apply Recursive Feature Elimination (RFE) to remove noisy attributes.
-- [ ] **Interactive Web App**: Build a lightweight interactive web dashboard (using **Streamlit** or **Gradio**) allowing clinicians to input patient parameters and view instantaneous probability risk scores.
-
----
-
-## 👤 Author
-
-* **Project Developer**: HP / ML Engineer
-* **Contact**: [GitHub Profile](https://github.com) | [LinkedIn](https://linkedin.com)
-
 *Feel free to star ⭐️ this repository if you found it helpful!*
