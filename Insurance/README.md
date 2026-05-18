@@ -169,12 +169,3 @@ Running the notebook generates several high-resolution plots to interpret the da
 </table>
 
 ---
-
-## Future Improvements & Modeling Steps
-
-- [ ] **Regression Modeling**: Train Linear Regression, Ridge, Lasso, and Random Forest Regression models on the exported `final_df`.
-- [ ] **Target Skewness Correction**: Apply logarithmic transformations (like `np.log1p`) on the `charges` target variable to meet regression normality assumptions and improve R² scores.
-- [ ] **Interactive Premium Predictor**: Build a lightweight web application using **Streamlit** to host the trained regression model, letting users interactively drag sliders (for age, BMI) and select dropdowns (for smoker status, region) to estimate their health premium immediately.
-
----
-
