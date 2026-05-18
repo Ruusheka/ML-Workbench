@@ -136,11 +136,20 @@ To run the analysis and feature engineering pipeline:
 
 ## 🖼️ Screenshots & Visualizations
 
-During execution, the notebook displays:
-* **Target Balance Plots**: Visualizing the distribution of Heart Disease vs. Normal patients.
-* **Subplot Histograms**: Showing raw and scaled continuous medical attributes.
-* **Correlational Heatmap**: Dissecting Pearson correlations among numerical features.
-* **Outlier Box & Violin plots**: Pointing out age groups and anomalous cholesterol clusters.
+During execution, the notebook displays several high-resolution plots to interpret the data:
+
+### Target Balance & Distributions
+![Target Balance & Histograms](img/image.png)
+
+### Feature Scaling (Before vs After)
+**Before Scaling:**
+![Before Scaling](img/before.png)
+
+**After Scaling:**
+![After Scaling](img/after.png)
+
+### Outlier Detection (Violin Plot)
+![Violin Plot](img/violine.png)
 
 ---
 

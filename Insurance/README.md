@@ -153,11 +153,13 @@ To walk through the statistical research and dataset processing:
 
 ## 🖼️ Visualizations & Screenshots
 
-Running the notebook generates several high-resolution interactive plots:
-* **Attribute Distribution Panels**: Multi-panel plots illustrating density charts for continuous features.
-* **Categorical Count panels**: Countplots demonstrating the split across genders, regions, and habits.
-* **Correlational Matrix Heatmap**: Displays visual representation of numeric interactions.
-* **Statistical Distribution Tables**: Renders dataframes listing the correlation rankings and Chi-Square hypotheses decisions.
+Running the notebook generates several high-resolution plots to interpret the data:
+
+### Attribute Distributions & Correlations
+![Attribute Distribution Panels](img/image.png)
+
+### BMI Distribution Analysis
+![BMI Distribution Analysis](img/bmi.png)
 
 ---
 
