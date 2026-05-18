@@ -1,4 +1,4 @@
-# 💓 Heart Disease: Exploratory Data Analysis & Feature Engineering
+# Heart Disease: Exploratory Data Analysis & Feature Engineering
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -9,7 +9,7 @@ A professional-grade, end-to-end data exploration, cleaning, and preprocessing p
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 17.9 million lives each year. Early detection and data-driven risk assessment are critical in clinical practice. 
 
@@ -20,7 +20,7 @@ This project analyzes a cohort of **918 patient records** with **11 clinical att
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language**: Python 3.8+
 * **Data Manipulation**: `pandas`, `numpy`
@@ -30,7 +30,7 @@ This project analyzes a cohort of **918 patient records** with **11 clinical att
 
 ---
 
-## 📊 Dataset & Features
+## Dataset & Features
 
 The project utilizes the **Heart Disease Dataset**, which consolidates several historical cardiac databases (such as Cleveland, Hungarian, Switzerland, and Long Beach V). 
 
@@ -60,7 +60,7 @@ The project utilizes the **Heart Disease Dataset**, which consolidates several h
 
 ---
 
-## 🚀 Key Features of the Analysis
+## Key Features of the Analysis
 
 ### 1. Exploratory Data Analysis (EDA) & Visualizations
 * **Distribution Audits**: Histograms with Kernel Density Estimation (KDE) curves for continuous clinical metrics (`Age`, `RestingBP`, `Cholesterol`, `MaxHR`) to detect skewness and range profiles.
@@ -78,7 +78,7 @@ The project utilizes the **Heart Disease Dataset**, which consolidates several h
 
 ---
 
-## 📈 Results & Visual Insights
+## Results & Visual Insights
 
 Based on the notebook analysis:
 1. **High-Risk Demographics**: Males represent a significantly higher proportion of positive `HeartDisease` diagnoses compared to females.
@@ -94,7 +94,7 @@ Based on the notebook analysis:
 
 ---
 
-## 💻 Installation & Setup
+## Installation & Setup
 
 Set up this project locally by following these steps:
 
@@ -121,7 +121,7 @@ Make sure you have Python 3.8 or higher installed.
 
 ---
 
-## 💻 Usage
+## Usage
 
 To run the analysis and feature engineering pipeline:
 
@@ -134,7 +134,7 @@ To run the analysis and feature engineering pipeline:
 
 ---
 
-## 🖼️ Screenshots & Visualizations
+## Screenshots & Visualizations
 
 During execution, the notebook displays several high-resolution plots to interpret the data:
 
@@ -163,4 +163,4 @@ During execution, the notebook displays several high-resolution plots to interpr
 
 ---
 
-*Feel free to star ⭐️ this repository if you found it helpful!*
+*Feel free to star this repository if you found it helpful!*
