@@ -178,9 +178,3 @@ Running the notebook generates several high-resolution plots to interpret the da
 
 ---
 
-## Author
-
-* **Project Developer**: HP / ML Engineer
-* **Contact**: [GitHub Profile](https://github.com) | [LinkedIn](https://linkedin.com)
-
-*Feel free to star this repository if you found it helpful!*

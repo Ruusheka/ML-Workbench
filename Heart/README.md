@@ -161,6 +161,4 @@ During execution, the notebook displays several high-resolution plots to interpr
   </tr>
 </table>
 
----
 
-*Feel free to star this repository if you found it helpful!*
